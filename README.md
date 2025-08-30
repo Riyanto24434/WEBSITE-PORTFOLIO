@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# WEBSITE-PORTFOLIO
+# WEBSITE-PORTFOLIO (Menit -> 25:00)
 =======
 # React + Vite
 
